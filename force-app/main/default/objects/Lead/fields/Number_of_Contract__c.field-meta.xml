@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Number_of_Contract1__c</fullName>
+    <fullName>Number_of_Contract__c</fullName>
     <externalId>false</externalId>
-    <label>Number of Contract1</label>
+    <label>Number of Contract</label>
     <precision>18</precision>
     <required>false</required>
     <scale>0</scale>

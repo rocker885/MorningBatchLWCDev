@@ -1,7 +1,8 @@
 {
-  "orgName": "Demo company",
+  "orgName": "Scratch Org for chetna-UC11",
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi"],
+  "hasSampleData": true,
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
